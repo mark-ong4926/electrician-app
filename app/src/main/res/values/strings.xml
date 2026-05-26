@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Electrician App</string>
+    <string name="app_tagline">Job Management System</string>
+    <string name="organization_name">ช่างอ๋องไปครบวงจร</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="jobs">Jobs</string>
+    <string name="clock">Clock</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Digital Clock -->
+    <string name="current_time">Current Time</string>
+    <string name="time_zones_around_world">Time Zones Around the World</string>
+    
+    <!-- Job Management -->
+    <string name="new_job">New Job</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_description">Description</string>
+    <string name="job_location">Location</string>
+    <string name="job_status">Status</string>
+    <string name="job_created">Job Created</string>
+    <string name="job_updated">Job Updated</string>
+    
+    <!-- Status -->
+    <string name="status_pending">Pending</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+</resources>
